@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/harsh-pandey-fd21/" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-pandey-fd21/" target="blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/Harsh_pndy06" target="_blank">
