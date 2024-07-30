@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">I'm  purshuing B. Tech in Computer science and Engineering  from Vellore Institute of Technology and I'm currently in my final year and have experience in Data Science and Web development domains. <br><br>- 🔭 I’m worked as SDE intern at Logic Information Systems, Bangalore<br>- 📚 I'm currently learning Generative AI, Langchain, LLMOOPs, full stack development<br>- ⚡ In my free time I like to discover about latest technology, gadgets, current affairs.</p>
+<p align="left">I'm  purshuing B. Tech in Computer science and Engineering  from Vellore Institute of Technology and I'm currently in my final year and have experience in Data Science and Web development domains. <br><br>- 🔭 I worked as SDE intern at Logic Information Systems, Bangalore<br>- 📚 I'm currently learning Generative AI, Langchain, LLMOOPs, full stack development<br>- ⚡ In my free time I like to discover about latest technology, gadgets, current affairs.</p>
 
 ###
 
