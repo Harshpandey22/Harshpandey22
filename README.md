@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">- 🔭 I’m currently working on Hostel Management Portal for my College<br><br>- 🌱 I’m currently learning Large Language Models, Retrieval Augumentation Generation, LLMOOPs<br><br>- 📫 How to reach me harshpandey2289@gmail.com<br><br>- 📄 Know about my experiences https://drive.google.com/file/d/1xnAo2BOB8MumoJjgquejOaliIIymyxQs/view?usp=sharing<br><br>- ⚡ Fun fact I am a esports enthusiast and like to watch series and movies</h5>
+<h5 align="left">- 🔭 I’m currently working on Hostel Management Portal for my College<br><br>- 🌱 I’m currently learning Large Language Models, Retrieval Augumentation Generation, LLMOOPs<br><br>- 📫 How to reach me <a href="harshpandey2289@gmail.com">Email</a><br><br>- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZKQGUbV3lRFPjSv9E_rqdVuMCxGOyDW2/view?usp=sharing">Resume</a><br><br>- ⚡ Fun fact I am a esports enthusiast and like to watch series and movies</h5>
 
 ###
 
