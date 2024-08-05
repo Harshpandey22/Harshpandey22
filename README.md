@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">- 🔭 I’m currently working on Hostel Management Portal for my College<br><br>- 🌱 I’m currently learning Large Language Models, Retrieval Augumentation Generation, LLMOOPs<br><br>- 📫 How to reach me <a href="harshpandey2289@gmail.com"><button>Email</button></a><br><br>- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZKQGUbV3lRFPjSv9E_rqdVuMCxGOyDW2/view?usp=sharing"><button>Resume</button></a><br><br>- ⚡ Fun fact I am a esports enthusiast and like to watch series and movies</h5>
+<h5 align="left">- 🔭 I’m currently working on Hostel Management Portal for my College<br><br>- 🌱 I’m currently learning Large Language Models, Retrieval Augumentation Generation, LLMOOPs<br><br>- 📫 How to reach me <a href="mailto:harshpandey2289@gmail.com"><button>Email</button></a><br><br>- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1ZKQGUbV3lRFPjSv9E_rqdVuMCxGOyDW2/view?usp=sharing"><button>Resume</button></a><br><br>- ⚡ Fun fact I am a esports enthusiast and like to watch series and movies</h5>
 
 ###
 
@@ -24,7 +24,7 @@
   <a href="https://www.instagram.com/harsh._pndy20/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="35" alt="instagram logo"  />
   </a>
-  <a href="harshpandey2289@gmail.com" target="_blank">
+  <a href="mailto:harshpandey2289@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="35" alt="gmail logo"  />
   </a>
   <a href="https://discord.com/channels/@me" target="_blank">
@@ -88,5 +88,3 @@
   <img src="https://streak-stats.demolab.com?user=Harshpandey22&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harshpandey22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
