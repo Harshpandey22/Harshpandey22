@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Harsh Pandey Banner.png" alt="Banner" width="100%" height="auto" />
+  <img src="Harsh_Pandey_Banner.png" alt="Banner" width="100%" height="auto" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Harsh Pandey</h1>
